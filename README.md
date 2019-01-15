@@ -9,17 +9,10 @@ You will do this homework by editing the _README.md_ file. It's in
 and will be rendered to beautiful HTML when you visit your GitHub repo.
 
 ## Student Information
-Please also edit _README.md_ and replace your instructor's name and NetID with your own:
 
 _Student name_: Patrick Brady
 
 _Student NetID_: pjb3
-
-Your NetID is typically your initials and a numeric digit. That's
-what we need here.
-
-_If you contacted us in advance and we approved a late submission,
-please cut-and-paste the text from that email here._
 
 ## Problem 1
 - Scenario: Stadium
@@ -34,17 +27,16 @@ please cut-and-paste the text from that email here._
   - Fans - all the people from both sides who came to watch. While they are not as in the spotlight as the players, they still need to be protected and their safty is a priority.
   - Vendors at Stadium - people working at food/concession stands in the stadium as their job.
 - Threats:
-  - stealing from vendors
+  - stealing from vendors - this is very much like ordinary theft. 
   - stealing from fans
-  - physical hard to players from fans
-  - bombs or explosives anywhere
-  - fan vs fan violence
-  - explanatory_paragraph ...
+  - physical harm to players from fans - this could be in the form of fans going onto the field to attack them close range or using various forms of projectiles including weapons like guns.
+  - bombs or explosives - self explanatory. a device to cause large amounts of damage to the structure or to injure people
+  - fan vs fan violence - Since I have an obligation to protect fans, fans fighting each other in close range using hand-to-hand violence or with the use of weapons.
 - Countermeasures:
-  - checking bags at entrance
-  - security guards stationed around the stadium, particularly at enterances and stairwells
-  - one or two bomb sniffing dogs
-  - before the game, do a quick sweep of the stadium to make sure it is empty/no threats
+  - checking bags at entrance - This is an essential countermeasure. It prevents most weapons or explosive devices from entering the stadium. The cost is that you have to have many security workers staff these checked areas and fans do not usually enjoy having their bags checked, but the consequences of weapons such as guns or explosives entering the stadium is too high and justifies this measure.
+  - security guards stationed around the stadium, particularly at enterances and stairwells. They will be able to respond to any reported theft and be close at hand to stop any fights. Additionally, a visible security presence is likely to act as a preventative measure for any unruly behavior.
+  
+  - before the game, do a quick sweep of the stadium to make sure it is empty/no threats. Like we mentioned in class, a good way to sneak into somewhere is just to stay
   - limit number of fans to the number of seats
   - designate home and away sections to reduce fan violence
   - police presence in parking lot to prevent fan vs fan violence
