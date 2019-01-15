@@ -24,27 +24,25 @@ _Student NetID_: pjb3
 - Assets:
   - Players - The football players from both teams, home and away. They are probably the most important asset that you need to protect because if anything happens to them it will be in the headlines and cause major loss in revenue.
   - The stadium itself - The physical structure of the stadium. This is a bit vague, but I'm thinking about this in the context of damage to the stadium structure.
-  - Fans - all the people from both sides who came to watch. While they are not as in the spotlight as the players, they still need to be protected and their safty is a priority.
+  - Fans - all the people from both sides who came to watch. While they are not as in the spotlight as the players, they still need to be protected and their safety is a priority.
   - Vendors at Stadium - people working at food/concession stands in the stadium as their job.
 - Threats:
-  - stealing from vendors - this is very much like ordinary theft. 
-  - stealing from fans
+  - stealing from vendors - this is very much like ordinary theft from stores. 
+  - stealing from fans - again, very much like ordinary theft from people on the street.
   - physical harm to players from fans - this could be in the form of fans going onto the field to attack them close range or using various forms of projectiles including weapons like guns.
   - bombs or explosives - self explanatory. a device to cause large amounts of damage to the structure or to injure people
   - fan vs fan violence - Since I have an obligation to protect fans, fans fighting each other in close range using hand-to-hand violence or with the use of weapons.
 - Countermeasures:
   - checking bags at entrance - This is an essential countermeasure. It prevents most weapons or explosive devices from entering the stadium. The cost is that you have to have many security workers staff these checked areas and fans do not usually enjoy having their bags checked, but the consequences of weapons such as guns or explosives entering the stadium is too high and justifies this measure.
-  - security guards stationed around the stadium, particularly at enterances and stairwells. They will be able to respond to any reported theft and be close at hand to stop any fights. Additionally, a visible security presence is likely to act as a preventative measure for any unruly behavior.
+  - security guards stationed around the stadium, particularly at entrances and stairwells. They will be able to respond to any reported theft and be close at hand to stop any fights. Additionally, a visible security presence is likely to act as a preventative measure for any unruly behavior. They are worth the cost of paying for their time.
   
-  - before the game, do a quick sweep of the stadium to make sure it is empty/no threats. Like we mentioned in class, a good way to sneak into somewhere is just to stay
-  - limit number of fans to the number of seats
-  - designate home and away sections to reduce fan violence
-  - police presence in parking lot to prevent fan vs fan violence
-  - have a barrier with the parking lot entry so not just anyone can drive in
-  - have phones around stadium to contact authorities
-  - have a few security personel around the entrance and exit that the football players use to get the bus to/from the stadium
-  - guards outside VIP areas
-  - explanatory_paragraph ...
+  - before the game, do a quick sweep of the stadium to make sure it is empty/no threats. Like we mentioned in class, a good way to sneak into somewhere is just to stay until the area's perimeter is secured, and then you are past security. Doing an exhaustive sweep is probably too expensive and time intensive so a few security guards doing the weep is probably adequate.
+  - limit number of fans to the number of seats. If you allow too many people in, it is a fire hazard to have too many people than the exits can accommodate in a reasonable time. The 'cost' of this is you might be missing out on selling tickets to people who want to go, but it is not logical to overbook the stadium.
+  - police presence in parking lot to prevent fan vs fan violence. After the game especially if people were drinking violence may happen outside where there is less perceived police presence so having a few officers driving around the parking lot might help ensure that people stay civil especially after important games. Included in this might be officers to direct traffic so people don't get impatient and make unsafe traffic maneuvers. You would only need to hire these people for after the game so the cost would probably be lower than having the guards there all game.
+  - have phones around stadium to contact authorities. Im not sure if this is actually in stadiums, but having anyone be able to pick up the phone and contact security at the stadium instantly would be a good safety precaution that has un upfront cost but low ongoing cost.
+  - have a few security personnel around the entrance and exit that the football players use to get the bus to/from the stadium. The players need a bit more security than the average fan, so making sure they have a safe entrance and exit is important. You can probably reuse the guards from the general stadium area for minimal additional cost before and after the game.
+  - security cameras. Like the phones, expensive to install but low upkeep and provides a record of people's movement that can be used to help solve security issues live or after the fact in cases like theft. The cameras are definitely worth the cost since they enable you to hire less guards since you are able to monitor more areas from one place.
+
 
 ## Problem 2
 - Scenario: Grading
