@@ -73,16 +73,21 @@ _Student NetID_: pjb3
 ## Problem 3
 - Scenario: You are overseeing North Servery at Rice University
 - Assumptions:
-  - explain_your_assumptions
+  - I am assuming that I am overseeing the servery during the school year
 - Assets:
-  - Food quality/ safety
+  - Food quality/ safety. The servery provides a large amount of food to the students daily. Following food safety standards to keep students safe is very important. 
+  - Computer
   - Student Safety
-  - I don't know how to articulate this, but only allowing authorized students in.
+  - 
   - explanatory_paragraph ...
+
 - Threats:
   - explanatory_paragraph 
   - explanatory_paragraph ...
+
 - Countermeasures:
+  - card readers to charge students with a staff member to serve be stationed at each card reader, which is at each enterance. The staff who work at the card readers also should challenge students who they do not think swiped in who are not on a meal plan. This ensures that the servery resources are only available to those who are paying for them. The cost is to have to pay someone to be usually very bored sitting at a card reader for extended period of time during every meal.
+  - Disalow students to enter kitchen except by permission - This is a low cost and relatively standard procedure. The cost is that if someone needs something from the kitchen a staff member has to get it for them and a few minutes productivity is wasted, but food regulation standards are upheld by keeping untrained people out of the kitchen.
   - explanatory_paragraph
   - explanatory_paragraph ...
 
