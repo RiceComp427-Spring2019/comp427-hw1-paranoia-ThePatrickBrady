@@ -50,22 +50,23 @@ _Student NetID_: pjb3
   - I am assuming that this is a computer science class with an online submission of written work and/ or code.
   - I am assuming that there are TAs to assist in the grading
 - Assets:
-  - Student privacy. Protecting privacy is a right under FERPA and general moral decency. I would need to put resonable effort towards protecting other students from seeing the grades of students in the class or letting that information get out to 3rd parties.
+  - Student privacy. Protecting privacy is a right under FERPA and general moral decency. I would need to put reasonable effort towards protecting other students from seeing the grades of students in the class or letting that information get out to 3rd parties.
   - Student's accurate grades - consistency and giving credit for OWN work. Student's work needs to be protected as best as possible from people who may be trying to access submitted work. Should not be modified by outside sources.
   - Answer keys - the answers to the homework needs to be protected and hidden from students until after the assignment is due.
 - Threats:
   - students not submitting their own work. This can be a threat to the integrity of the class.
-  - students (or any outsider) seeing other students grades.
+  - students (or any outsider) seeing other students’ grades.
   - electronic failure of the online grade submitting system. Depending on the system used, this may or may not be a problem. I will discuss this more in the countermeasures section.
   - TAs who are biased or actively attempting to sabotage grades of the student in the class.
 
 - Countermeasures:
-  - keeping a paper copy of any paper submissions. This can be used as a backup in case an online copy is lost or destroyed in an attack. It is most  likely to be used in cases of grade disputes. The cost for keeping paper copies around are low since they just take up some space in a locked cabinet for instance.
-  - posting the grades online for students to verify. Allowing students to keep track of their grades throughout the class will allow them to continuously check their grades for any inconsistencies in the way that grades were entered. This prevents the possibility of an instuctor's computor being used to enter false grades if it is taken over or used in any way. The cost to this is usually low, because most grading software has this capability built in to allow students to view released grades.
-  - having one more trusted person like the instructor do consistency checking on TAs grading. This ensures that no TA is able to go rogue without being detected. It is more work on behalf of the instuctor, but in a class this big, the benefits of keeping grading uniform will reduce the amount of work of regrades.
-  - having grading itself be done not in a public area. In public spaces, it is easy to have your screen be read over your shoulder violating the privacy of student records if you have the gradebook just open. The cost of this is convenience, that you are restricting the places where you can grade a little bit. I think it is work it to keep in mind that if you have a gradebook open your back should be to a wall.
-  - use a secure online site with authentication if you are entering them online. For example, canvas is fairly secure (to my knowledge) so it is a safe place to upload grades. I dont know the cost of having canvas, but the pain of entering the grades there is worth the database functionality that canvas provides.
-  - periodically backing up the gradebook on a secure server or computer. Although it would take up storage and take some time to do, it would be a good idea to back up the data once in a while onto a secure server in clase canvas has a failure and loses data. The cost is not too large and the probability that a failure happens is so low that I would not call this countermeasure a priority.
+  - keeping a paper copy of any paper submissions. This can be used as a backup in case an online copy is lost or destroyed in an attack. It is most likely to be used in cases of grade disputes. The cost for keeping paper copies around are low since they just take up some space in a locked cabinet for instance.
+  - posting the grades online for students to verify. Allowing students to keep track of their grades throughout the class will allow them to continuously check their grades for any inconsistencies in the way that grades were entered. This prevents the possibility of an instructor’s computer being used to enter false grades if it is taken over or used in any way. The cost to this is usually low, because most grading software has this capability built in to allow students to view released grades.
+  - having one more trusted person like the instructor do consistency checking on TAs grading. This ensures that no TA can go rogue without being detected. It is more work on behalf of the instructor, but in a class this big, the benefits of keeping grading uniform will reduce the amount of work of regrades.
+  - grading itself be done not in a public area. In public spaces, it is easy to have your screen be read over your shoulder violating the privacy of student records if you have the gradebook just open. The cost of this is convenience, that you are restricting the places where you can grade a little bit. I think it is work it to keep in mind that if you have a gradebook open your back should be to a wall.
+  - use a secure online site with authentication if you are entering them online. For example, canvas is secure (to my knowledge) so it is a safe place to upload grades. I don’t know the cost of having canvas, but the pain of entering the grades there is worth the database functionality that canvas provides.
+  - periodically backing up the gradebook on a secure server or computer. Although it would take up storage and take some time to do, it would be a good idea to back up the data occasionally onto a secure server in case canvas has a failure and loses data. The cost is not too large and the probability that a failure happens is so low that I would not call this countermeasure a priority.
+
 
 
 
