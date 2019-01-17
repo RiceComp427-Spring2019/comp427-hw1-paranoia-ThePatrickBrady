@@ -75,17 +75,17 @@ _Student NetID_: pjb3
 - Assumptions:
   - I am assuming that I am overseeing the servery during the school year
 - Assets:
-  - Food quality/ safety. The servery provides a large amount of food to the students daily. Following food safety standards to keep students safe is very important for keeping the servey open and the students healthy.
+  - Food quality/ safety. The servery provides a large amount of food to the students daily. Following food safety standards to keep students safe is very important for keeping the servery open and the students healthy.
   - Student Safety. When in the servery, the students need to be safe and not exposed to any danger.
 
 - Threats:
   - Unauthorized people in servery - whether this is people outside of the university, or students who are in the servery who have not had their card swiped.
-  - Students contaminating food or violating food safty procedures. This could be intentional or accidental on the part of students.
+  - Students contaminating food or violating food safety procedures. This could be intentional or accidental on the part of students.
   - Hiring untrained cooks that do not follow food safety guidelines.
 
 - Countermeasures:
-  - card readers to charge students with a staff member to serve be stationed at each card reader, which is at each enterance. The staff who work at the card readers also should challenge students who they do not think swiped in who are not on a meal plan. This ensures that the servery resources are only available to those who are paying for them. The cost is to have to pay someone to be usually very bored sitting at a card reader for extended period of time during every meal.
-  - Disalow students to enter kitchen except by permission - This is a low cost and relatively standard procedure. The cost is that if someone needs something from the kitchen a staff member has to get it for them and a few minutes productivity is wasted, but food regulation standards are upheld by keeping untrained people out of the kitchen.
-  - Giving all cooks regardless of backround mandatory training ensures that everyone handling the food konws how to do so safely. Training costs since it takes time, but it is likely a mandatory thing.
-  - Outside of active hours, to prevent people from entering the servery, there needs to be some physical locking barrier. The cost of this should be included while building the servery since it should be a built in structure like a locking door or a gate. Locking the doors when the servery is not open is a simple low cost method of keeping people out when they should not be in the servery potentially causing damage or tainting any food supplies.
+  - card readers to charge students with a staff member to serve be stationed at each card reader, which is at each entrance. The staff who work at the card readers also should challenge students who they do not think swiped in who are not on a meal plan. This ensures that the servery resources are only available to those who are paying for them. The cost is to have to pay someone to be usually very bored sitting at a card reader for extended period during every meal.
+  - Disallow students to enter kitchen except by permission - This is a low cost and relatively standard procedure. The cost is that if someone needs something from the kitchen a staff member must get it for them and a few minutes productivity is wasted, but food regulation standards are upheld by keeping untrained people out of the kitchen.
+  - Giving all cooks regardless of background mandatory training ensures that everyone handling the food knows how to do so safely. Training costs since it takes time, but it is likely a mandatory thing.
+  - Outside of active hours, to prevent people from entering the servery, there needs to be some physical locking barrier. The cost of this should be included while building the servery since it should be a built-in structure like a locking door or a gate. Locking the doors when the servery is not open is a simple low-cost method of keeping people out when they should not be in the servery potentially causing damage or tainting any food supplies.
 
